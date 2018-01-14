@@ -59,7 +59,7 @@ Armed with the knowledge of pizza's low water footprint versus a hamburger's ext
 
 Boom.
 
-## So all we need to do is eat pizza over hamburgers and we're good?
+# So all we need to do is eat pizza over hamburgers and we're good?
 
 Yes and no.  Californians have found out over the last month that Mother Nature is still in control of when droughts begin and when droughts end.  As I write this, [huge storm surges are replenishing many of their exhausted surface water reservoirs.](http://fortune.com/2017/02/18/california-rain-mudslides-floods/)
 
