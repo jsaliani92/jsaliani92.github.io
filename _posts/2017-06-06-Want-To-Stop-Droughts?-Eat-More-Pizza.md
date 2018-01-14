@@ -19,7 +19,7 @@ But you know what could?
 
 <img src="/Pizza Image.jpg" width="400" height="400">
 
-<img src="/Pizza Image.jpg" width="500" height="600">
+<img src="/Pizza Image.jpg" width="500" height="500">
 
 #### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
@@ -39,7 +39,7 @@ While 42 gallons for a slice of pizza may sound like a lot of water to spend on
 
 So, if you’re someone who dabbles with dollar pizza from time to time like me (I am a New Yorker, after all), you’re ahead of the pack - and by hundreds of gallons. Awesome job my fellow pizza lovers!
 
-<img src="/Hamburger-Gallons.png" height = 400 width = 500>
+<img src="/Hamburger-Gallons.png" height = 400 width = 600>
 
 That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
 
