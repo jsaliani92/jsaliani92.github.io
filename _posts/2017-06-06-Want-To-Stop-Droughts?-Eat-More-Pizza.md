@@ -23,13 +23,13 @@ But you know what could?
 
 #### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
-##How does eating pizza save water?
+## How does eating pizza save water?
 
 The typical American uses around 100 gallons of water daily, brushing their teeth, showering and flushing the toilet.  And while that may seem like a lot of water, it's a mere drop in the bucket compared to the 1,000 gallons used to make the food consumed in our three daily meals!
 
 Those 1,000 gallons of water - gallons we never see or touch - are used to feed livestock, grow crops and keep the agriculture industry booming.  It's known as virtual water - which ranges from as low as 10 gallons for a tomato to as high as 820 gallons for a half pound steak.  
 
-##So: how many virtual gallons do you think go into making a slice of cheese pizza?
+## So: how many virtual gallons do you think go into making a slice of cheese pizza?
 
 While 42 gallons for a slice of pizza may sound like a lot of water to spend on a meal, it's well below the average of 333 gallons per meal.  Put it another way: a slice of pizza saves eight times (8X) the water needed to produce the typical American meal.
 
