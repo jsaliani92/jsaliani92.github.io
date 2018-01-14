@@ -11,7 +11,7 @@ In recent years, [California](https://ca.water.usgs.gov/data/drought/) and many
 
 But you know what could?
 
-<img src="Pizza Image.jpg" alt="Mountain View" width="50" height="50">
+<img src="Pizza Image.jpg" width="50" height="50">
 
 
 ![alt text](Pizza Image.jpg)
