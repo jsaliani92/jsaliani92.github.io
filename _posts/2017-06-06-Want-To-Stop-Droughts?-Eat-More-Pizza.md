@@ -11,7 +11,7 @@ In recent years, [California](https://ca.water.usgs.gov/data/drought/) and many
 
 But you know what could?
 
-<img src="Pizza Image.jpg">
+<img src="Pizza Image.png">
 
 #### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
