@@ -19,7 +19,7 @@ But you know what could?
 
 <img src="/Pizza Image.jpg" width="400" height="400">
 
-<img src="/Pizza Image.jpg" align="middle" width="500" height="500" >
+<img src="/Pizza Image.jpg" align="middle" width="500" height="500">
 
 #### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
@@ -31,7 +31,7 @@ Those 1,000 gallons of water - gallons we never see or touch - are used to feed 
 
 ## So: how many virtual gallons do you think go into making a slice of cheese pizza?
 
-<img  src="/42-Gallons-Pizza.png" align="middle">
+<img src="/42-Gallons-Pizza.png" align="middle">
 
 While 42 gallons for a slice of pizza may sound like a lot of water to spend on a meal, it's well below the average of 333 gallons per meal.  Put it another way: a slice of pizza saves eight times (8X) the water needed to produce the typical American meal.
 
@@ -39,7 +39,7 @@ While 42 gallons for a slice of pizza may sound like a lot of water to spend on
 
 So, if you’re someone who dabbles with dollar pizza from time to time like me (I am a New Yorker, after all), you’re ahead of the pack - and by hundreds of gallons. Awesome job my fellow pizza lovers!
 
-<img src="/Hamburger-Gallons.png" height = 400 width = 600 align="middle">
+<img src="/Hamburger-Gallons.png" align="middle">
 
 That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
 
