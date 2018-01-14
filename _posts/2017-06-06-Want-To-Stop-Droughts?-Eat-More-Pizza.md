@@ -67,18 +67,19 @@ But as Peter Gleick explains in his article *[A Wet Year Won't Beat California's
 
 "Whether or not the [Californian] drought is officially declared 'over' and emergency restrictions are lifted, we must still face up to the fact that our water system is out of balance, even in a wet year. Demands exceed supply, disadvantaged communities don’t have reliable access to safe water, ecosystems are dying, and our water systems are unsustainable and poorly managed."
 
-That's the key.  As a society, we need to identify ways to reshape how we use water, so no matter the environmental conditions we're facing, our water systems can still function sustainably.  And within the agricultural industry, whose systems account for up to 80% of our total water use, we must find way to ease that tremendous water demand.
+That's the key.  As a society, we need to identify ways to reshape how we use water, so no matter the environmental conditions we're facing, our water systems can still function sustainably.  And within the agricultural industry, whose systems account for up to [80% of our total water use](https://www.ers.usda.gov/topics/farm-practices-management/irrigation-water-use.aspx), we must find way to ease that tremendous water demand.
 
-For me, eating pizza is an easy and tasty way to do my part in easing that burden.  But remember it's not limited to just eating pizza; it's more about changing our reliance on water inefficient foods like beef. To put it simply, we need to eat less beef, or at the very least be more "beef-conscious". So the next time you're biting into that burger, remember all the time, the energy and the water that went into making it.  
+For me, eating pizza is an easy and tasty way to do my part in easing that burden.  But remember it's not limited to just eating pizza; it's more about changing our reliance on water inefficient foods like beef. To put it simply, we need to eat less beef, or at the very least be more "beef-conscious". So the next time you're biting into that burger, [remember all the time, the energy and the water that went into making it](http://www.bbc.com/news/science-environment-28858289).  
 
 So, come lunchtime: order a chicken sandwich from Shake Shack instead of the burger.  Have a couple of hotdogs at the game instead of those hamburgers.  Order an egg and cheese sandwich instead of a sausage, egg and cheese!  Each of these choices make a huge difference in your virtual water footprint, even if they don't seem like big sacrifices!
 
 Meanwhile, I'll be doing my part ordering up a couple of slices - let me know if you want in, I'll get us a pie to share!
-- Citations & Calculations -
+
+# - Citations & Calculations -
 Images from clipartkid.com, musthavemenus.com and memegenerator.com. Custom Images created in ggplot2.
 Calculations:
 
-(*1) Cheese takes up a significant amount of water per lb, but for cheese pizza, it is a small amount used per slice, so the cheese's virtual water is only around 20 gallons of water.
+(*1) Cheese takes up a significant amount of water per lb, but for cheese pizza, it is a small amount used per slice, so the cheese's virtual water is [only around 20 gallons of water](http://www.gracelinks.org/media/pdf/nexus_guide_finalforweb.pdf).
 
 (*2) -> 39 million residents X 100 gallons/day/resident X 365 days/year = 1.4 trillion gallons
 
