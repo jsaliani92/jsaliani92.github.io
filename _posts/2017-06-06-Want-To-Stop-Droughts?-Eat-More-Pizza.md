@@ -11,25 +11,29 @@ In recent years, California and many other states have experienced some seriou
 
 But you know what could?
 
-<img src="Pizza Image.jpg" class="fit image">
+<img src="Pizza Image.jpg">
 
-## That's right: One of the best ways we can collectively address water shortages across the country is **eating more pizza**!
+#### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
-How does eating pizza save water?
+##How does eating pizza save water?
 
 The typical American uses around 100 gallons of water daily, brushing their teeth, showering and flushing the toilet.  And while that may seem like a lot of water, it's a mere drop in the bucket compared to the 1,000 gallons used to make the food consumed in our three daily meals!
 
 Those 1,000 gallons of water - gallons we never see or touch - are used to feed livestock, grow crops and keep the agriculture industry booming.  It's known as virtual water - which ranges from as low as 10 gallons for a tomato to as high as 820 gallons for a half pound steak.  
 
-So: how many virtual gallons do you think go into making a slice of cheese pizza?
+##So: how many virtual gallons do you think go into making a slice of cheese pizza?
 
 While 42 gallons for a slice of pizza may sound like a lot of water to spend on a meal, it's well below the average of 333 gallons per meal.  Put it another way: a slice of pizza saves eight times (8X) the water needed to produce the typical American meal.
 
-How is pizza so water efficient?  A slice of plain cheese pizza (which is the kind of pizza I'll be referring to for the rest of this post) is made up of bread, tomatoes and cheese. And all of those ingredients have a relatively low virtual water yield(*1 Citation).  
+*How is pizza so water efficient?*  A slice of plain cheese pizza (which is the kind of pizza I'll be referring to for the rest of this post) is made up of bread, tomatoes and cheese. And all of those ingredients have a relatively low virtual water yield(*1 Citation).  
 
 So, if you’re someone who dabbles with dollar pizza from time to time like me (I am a New Yorker, after all), you’re ahead of the pack - and by hundreds of gallons. Awesome job my fellow pizza lovers!
 
-That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to 660 gallons per burger!  But why?  The beef!
+<img src="Hamburger-Gallons.png">
+
+That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
+
+## 660 gallons per burger!  But why?  The beef!
 
 To make that beef patty, farmers need to raise cows.  To raise cows, farmers need cow feed... a lot of cow feed.   Anywhere between 10-30 lbs a day for just one cow.  So, when taking into account the virtual water that goes into making all that cow feed, beef's virtual water comes out to over 1,800 gallons per pound! That's one of the largest water footprints in the world, much more than chicken (468 gal/lb), pork (576 gal/lb) and even sheep (1248 gal/lb)!
 
@@ -39,7 +43,7 @@ California residents use around 1.4 trillion gallons of water each year(*2).  I
 
 Boom.
 
-So all we need to do is eat pizza over hamburgers and we're good?
+## So all we need to do is eat pizza over hamburgers and we're good?
 Yes and no.  Californians have found out over the last month that Mother Nature is still in control of when droughts begin and when droughts end.  As I write this, huge storm surges are replenishing many of their exhausted surface water reservoirs.
 But as Peter Gleick explains in his article A Wet Year Won't Beat California's Never-Ending Drought, it almost doesn't matter...
 
