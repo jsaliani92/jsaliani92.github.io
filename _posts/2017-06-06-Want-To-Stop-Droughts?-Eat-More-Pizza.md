@@ -39,7 +39,7 @@ While 42 gallons for a slice of pizza may sound like a lot of water to spend on
 
 So, if you’re someone who dabbles with dollar pizza from time to time like me (I am a New Yorker, after all), you’re ahead of the pack - and by hundreds of gallons. Awesome job my fellow pizza lovers!
 
-<img src="/Hamburger-Gallons.png">
+<img src="/Hamburger-Gallons.png" height = 300 width = 300>
 
 That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
 
