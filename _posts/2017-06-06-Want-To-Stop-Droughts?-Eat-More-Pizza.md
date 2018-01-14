@@ -57,7 +57,7 @@ But why?  Why do hamburgers take so much water to make?  
 
 To make that beef patty, farmers need to raise cows.  To raise cows, farmers need cow feed... a lot of cow feed.   Anywhere between 10-30 lbs a day for just one cow.  So, when taking into account the virtual water that goes into making all that cow feed, beef's virtual water comes out to over 1,800 gallons per pound! That's one of the largest water footprints in the world, much more than chicken (468 gal/lb), pork (576 gal/lb) and even sheep (1248 gal/lb)!
 
-Armed with the knowledge of pizza's low water footprint versus a hamburger's extremely high water footprint, the question emerges: If enough people eat enough pizza instead of hamburgers, can that save enough water to supply an entire state's population, even one as big as California?
+Armed with the knowledge of pizza's low water footprint versus a hamburger's extremely high water footprint, the question emerges: *If enough people eat enough pizza instead of hamburgers, can that save enough water to supply an entire state's population, even one as big as California?
 
 California residents use around 1.4 trillion gallons of water each year(*2).  If we substituted about 5% of hamburger's sold per year with two slices of cheese pizza, we would save approximately...yep, you guessed it: 1.4 trillion gallons of water(*3).
 
