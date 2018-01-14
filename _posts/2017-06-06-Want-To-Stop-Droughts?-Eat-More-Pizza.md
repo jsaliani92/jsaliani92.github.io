@@ -7,7 +7,7 @@ excerpt:  A tasty alternative you can endulge in
 
 November 11, 2017 
 
-In recent years, California and many other states have experienced some serious droughts.  Those state governments responded with public-awareness campaigns on water conservation and municipal water bans.   While well intentioned, these measures alone don't save enough to cover the water demand for all the citizens in those states.
+In recent years, [California](https://ca.water.usgs.gov/data/drought/) and many other states have experienced some serious droughts.  Those state governments responded with public-awareness campaigns on water conservation and municipal water bans.   While well intentioned, these measures alone don't save enough to cover the water demand for all the citizens in those states.
 
 But you know what could?
 
