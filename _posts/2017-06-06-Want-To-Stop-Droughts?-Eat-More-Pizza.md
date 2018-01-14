@@ -47,9 +47,11 @@ Each year Americans eat around [50 billion hamburgers](http://www.pbs.org/newsho
 
 <img src="/Hamburger-Gallons.png" align="middle" width="450" height="300">
 
-That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - [adding up to **660 gallons per burger!**](http://www.treehugger.com/green-food/holy-cow-burger-just-cost-660-gallons-water-make.html) But why?  Why do hamburgers take so much water to make?  
+That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - [adding up to **660 gallons per burger!**](http://www.treehugger.com/green-food/holy-cow-burger-just-cost-660-gallons-water-make.html) 
 
-**The beef!**
+But why?  Why do hamburgers take so much water to make?  
+
+**The answer: the beef!**
 
 To make that beef patty, farmers need to raise cows.  To raise cows, farmers need cow feed... a lot of cow feed.   Anywhere between [10-30 lbs a day for just one cow](http://beef.unl.edu/cattleproduction/forageconsumed-day).  So, when taking into account the virtual water that goes into making all that cow feed, beef's virtual water comes out to over [1,800 gallons per pound](http://www.latimes.com/food/dailydish/la-dd-gallons-of-water-to-make-a-burger-20140124-story.html)! That's one of the largest water footprints in the world, much more than chicken [(468 gal/lb)](http://www.gracelinks.org/blog/1143/beef-the-king-of-the-big-water-footprints), [pork (576 gal/lb)](http://www.gracelinks.org/blog/1143/beef-the-king-of-the-big-water-footprints) and even sheep [(1248 gal/lb)](http://www.huffingtonpost.com/2014/10/13/food-water-footprint_n_5952862.html)!
 
