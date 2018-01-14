@@ -13,6 +13,8 @@ But you know what could?
 
 <img src="Pizza Image.jpg">
 
+![alt text](Pizza Image.jpg)
+
 #### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
 ##How does eating pizza save water?
