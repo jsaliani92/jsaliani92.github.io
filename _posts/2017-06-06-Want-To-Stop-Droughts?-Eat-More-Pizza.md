@@ -31,7 +31,7 @@ Those 1,000 gallons of water - gallons we never see or touch - are used to feed 
 
 ## So: how many virtual gallons do you think go into making a slice of cheese pizza?
 
-<img src="/42-Gallons-Pizza.png" align="middle">
+<img  src="/42-Gallons-Pizza.png"  align="middle">
 
 While 42 gallons for a slice of pizza may sound like a lot of water to spend on a meal, it's well below the average of 333 gallons per meal.  Put it another way: a slice of pizza saves eight times (8X) the water needed to produce the typical American meal.
 
