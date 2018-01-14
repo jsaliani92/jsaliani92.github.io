@@ -45,7 +45,7 @@ And I know just the one: **hamburgers**.
 
 Each year Americans eat around 50 billion hamburgers.  That’s six times as many burgers than there are people on Earth!  And guess how many virtual gallons go into making a regular quarter-pounder?
 
-<img src="/Hamburger-Gallons.png" align="middle" width="300" height="300">
+<img src="/Hamburger-Gallons.png" align="middle" width="450" height="300">
 
 That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
 
