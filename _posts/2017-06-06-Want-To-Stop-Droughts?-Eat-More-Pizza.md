@@ -37,7 +37,7 @@ A slice of plain cheese pizza (which is the kind of pizza I'll be referring to f
 
 So, if you’re someone who dabbles with dollar pizza from time to time like me (I am a New Yorker, after all), you’re ahead of the pack - and by hundreds of gallons. Awesome job my fellow pizza lovers!
 
-<img src="/GIF Pizza.png" align="middle">
+<img src="/GIF Pizza.png" align="middle" width="300" height="300">
 
 Now that we know pizza's relatively low water footprint, we can maximize our impact by identifying meals with a high virtual water yield to substitute for!  
 
@@ -45,7 +45,7 @@ And I know just the one: **hamburgers**.
 
 Each year Americans eat around 50 billion hamburgers.  That’s six times as many burgers than there are people on Earth!  And guess how many virtual gallons go into making a regular quarter-pounder?
 
-<img src="/Hamburger-Gallons.png" align="middle">
+<img src="/Hamburger-Gallons.png" align="middle" width="300" height="300">
 
 That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
 
