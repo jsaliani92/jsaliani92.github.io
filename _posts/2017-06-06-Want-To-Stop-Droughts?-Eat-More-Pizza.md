@@ -7,7 +7,7 @@ excerpt:  A tasty alternative you can endulge in while saving hundreds of gallon
 
 November 11, 2017 
 
-In recent years, [California](https://ca.water.usgs.gov/data/drought/) and many other states have experienced some serious droughts.  Those state governments responded with public-awareness campaigns on water conservation and municipal water bans.   While well intentioned, these measures alone don't save enough to cover the water demand for all the citizens in those states.
+In recent years, [California](https://ca.water.usgs.gov/data/drought/) and [many other states](http://www.usatoday.com/story/money/2015/09/04/24-7-wallst-states-running-out-water/71706884/) have experienced some [serious droughts](https://motherboard.vice.com/en_us/article/102-million-trees-have-died-in-californias-drought).  Those state governments responded with public-awareness campaigns on [water conservation](http://saveourwater.com/) and municipal water bans.   While well intentioned, these measures alone [don't save enough](https://news.vice.com/article/california-drought-restrictions-save-enough-water-to-supply-6-million-residents) to cover the water demand for all the citizens in those states.
 
 But you know what could?
 
@@ -19,19 +19,19 @@ But you know what could?
 
 #### That's right: One of the best ways we can collectively address water shortages across the country is eating more pizza!
 
-## How does eating pizza save water?
+# How does eating pizza save water?
 
-The typical American uses around 100 gallons of water daily, brushing their teeth, showering and flushing the toilet.  And while that may seem like a lot of water, it's a mere drop in the bucket compared to the 1,000 gallons used to make the food consumed in our three daily meals!
+The typical American uses around [100 gallons of water daily](https://water.usgs.gov/edu/qa-home-percapita.html), brushing their teeth, showering and flushing the toilet.  And while that may seem like a lot of water, it's a mere drop in the bucket compared to the [1,000 gallons used to make the food consumed in our three daily meals](http://environment.nationalgeographic.com/environment/freshwater/water-conservation-tips/)!
 
-Those 1,000 gallons of water - gallons we never see or touch - are used to feed livestock, grow crops and keep the agriculture industry booming.  It's known as virtual water - which ranges from as low as 10 gallons for a tomato to as high as 820 gallons for a half pound steak.  
+Those 1,000 gallons of water - gallons we never see or touch - are used to feed livestock, grow crops and keep the agriculture industry booming.  It's known as [virtual water](https://www.earthmagazine.org/article/virtual-water-tracking-unseen-water-goods-and-resources) - which ranges from as low as [10 gallons for a tomato](http://www.huffingtonpost.com/2014/10/13/food-water-footprint_n_5952862.html) to as high as [820 gallons for a half pound steak](http://graphics.latimes.com/food-water-footprint/).  
 
 *So: how many virtual gallons do you think go into making a slice of cheese pizza?
 
 <img src="/42-Gallons-Pizza.png" align="middle">
 
-While 42 gallons for a slice of pizza may sound like a lot of water to spend on a meal, it's well below the average of 333 gallons per meal.  Put it another way: a slice of pizza saves eight times (8X) the water needed to produce the typical American meal.
+While [42 gallons for a slice of pizza](http://gracelinks.org/media/pdf/nexus_guide_finalforweb.pdf) may sound like a lot of water to spend on a meal, it's well below the average of 333 gallons per meal.  Put it another way: **a slice of pizza saves eight times (8X) the water needed to produce the typical American meal.
 
-**How is pizza so water efficient?**  
+# How is pizza so water efficient?
 
 A slice of plain cheese pizza (which is the kind of pizza I'll be referring to for the rest of this post) is made up of bread, tomatoes and cheese. And all of those ingredients have a relatively low virtual water yield(*1 Citation).  
 
@@ -43,29 +43,27 @@ Now that we know pizza's relatively low water footprint, we can maximize our imp
 
 And I know just the one: **hamburgers**.
 
-Each year Americans eat around 50 billion hamburgers.  That’s six times as many burgers than there are people on Earth!  And guess how many virtual gallons go into making a regular quarter-pounder?
+Each year Americans eat around [50 billion hamburgers](http://www.pbs.org/newshour/rundown/the-hidden-costs-of-hamburgers/).  That’s six times as many burgers than there are people on Earth!  And guess how many virtual gallons go into making a regular quarter-pounder?
 
 <img src="/Hamburger-Gallons.png" align="middle" width="450" height="300">
 
-That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - adding up to
-
-**660 gallons per burger!**
-
-But why?  Why do hamburgers take so much water to make?  
+That’s right, making a hamburger requires 15 times as much water than a slice of pizza does - [adding up to **660 gallons per burger!**](http://www.treehugger.com/green-food/holy-cow-burger-just-cost-660-gallons-water-make.html) But why?  Why do hamburgers take so much water to make?  
 
 **The beef!**
 
-To make that beef patty, farmers need to raise cows.  To raise cows, farmers need cow feed... a lot of cow feed.   Anywhere between 10-30 lbs a day for just one cow.  So, when taking into account the virtual water that goes into making all that cow feed, beef's virtual water comes out to over 1,800 gallons per pound! That's one of the largest water footprints in the world, much more than chicken (468 gal/lb), pork (576 gal/lb) and even sheep (1248 gal/lb)!
+To make that beef patty, farmers need to raise cows.  To raise cows, farmers need cow feed... a lot of cow feed.   Anywhere between [10-30 lbs a day for just one cow](http://beef.unl.edu/cattleproduction/forageconsumed-day).  So, when taking into account the virtual water that goes into making all that cow feed, beef's virtual water comes out to over [1,800 gallons per pound](http://www.latimes.com/food/dailydish/la-dd-gallons-of-water-to-make-a-burger-20140124-story.html)! That's one of the largest water footprints in the world, much more than chicken [(468 gal/lb)](http://www.gracelinks.org/blog/1143/beef-the-king-of-the-big-water-footprints), [pork (576 gal/lb)](http://www.gracelinks.org/blog/1143/beef-the-king-of-the-big-water-footprints) and even sheep [(1248 gal/lb)](http://www.huffingtonpost.com/2014/10/13/food-water-footprint_n_5952862.html)!
 
 Armed with the knowledge of pizza's low water footprint versus a hamburger's extremely high water footprint, the question emerges: *If enough people eat enough pizza instead of hamburgers, can that save enough water to supply an entire state's population, even one as big as California?
 
-California residents use around 1.4 trillion gallons of water each year(*2).  If we substituted about 5% of hamburger's sold per year with two slices of cheese pizza, we would save approximately...yep, you guessed it: 1.4 trillion gallons of water(*3).
+**California residents use around 1.4 trillion gallons of water each year(Citation 2).  If we substituted about 5% of hamburger's sold per year with two slices of cheese pizza, we would save approximately...yep, you guessed it: 1.4 trillion gallons of water(Citation 3).**
 
 Boom.
 
 ## So all we need to do is eat pizza over hamburgers and we're good?
-Yes and no.  Californians have found out over the last month that Mother Nature is still in control of when droughts begin and when droughts end.  As I write this, huge storm surges are replenishing many of their exhausted surface water reservoirs.
-But as Peter Gleick explains in his article A Wet Year Won't Beat California's Never-Ending Drought, it almost doesn't matter...
+
+Yes and no.  Californians have found out over the last month that Mother Nature is still in control of when droughts begin and when droughts end.  As I write this, [huge storm surges are replenishing many of their exhausted surface water reservoirs.](http://fortune.com/2017/02/18/california-rain-mudslides-floods/)
+
+But as Peter Gleick explains in his article *[A Wet Year Won't Beat California's Never-Ending Drought*](https://www.wired.com/2017/01/wet-year-wont-beat-californias-never-ending-drought/), it almost doesn't matter...
 
 "Whether or not the [Californian] drought is officially declared 'over' and emergency restrictions are lifted, we must still face up to the fact that our water system is out of balance, even in a wet year. Demands exceed supply, disadvantaged communities don’t have reliable access to safe water, ecosystems are dying, and our water systems are unsustainable and poorly managed."
 
