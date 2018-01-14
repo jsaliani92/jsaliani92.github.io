@@ -2,7 +2,7 @@
 layout: post
 title:  "Want To Stop Droughts? Eat More Pizza!"
 date:   2016-02-09 17:15:11 +0000
-excerpt:  LOLOLOLOL
+excerpt:  A tasty alternative you can endulge in
 ---
 
 February 21, 2017 
